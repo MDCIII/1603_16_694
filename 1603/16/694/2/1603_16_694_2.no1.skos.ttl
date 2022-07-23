@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:694()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:101" ;
     skos:prefLabel "Kailahun"@eng-Latn ;
-    wdata:q7200235 "SL0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -53,7 +51,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:102" ;
     skos:prefLabel "Kenema"@eng-Latn ;
-    wdata:q7200235 "SL0102" ;
 .
 
 <urn:mdciii:1603:16:694:2:103>
@@ -62,7 +59,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:103" ;
     skos:prefLabel "Kono"@eng-Latn ;
-    wdata:q7200235 "SL0103" ;
 .
 
 <urn:mdciii:1603:16:694:2:201>
@@ -71,7 +67,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:201" ;
     skos:prefLabel "Bombali"@eng-Latn ;
-    wdata:q7200235 "SL0201" ;
 .
 
 <urn:mdciii:1603:16:694:2:202>
@@ -80,7 +75,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:202" ;
     skos:prefLabel "Kambia"@eng-Latn ;
-    wdata:q7200235 "SL0202" ;
 .
 
 <urn:mdciii:1603:16:694:2:203>
@@ -89,7 +83,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:203" ;
     skos:prefLabel "Koinadugu"@eng-Latn ;
-    wdata:q7200235 "SL0203" ;
 .
 
 <urn:mdciii:1603:16:694:2:204>
@@ -98,7 +91,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:204" ;
     skos:prefLabel "Port Loko"@eng-Latn ;
-    wdata:q7200235 "SL0204" ;
 .
 
 <urn:mdciii:1603:16:694:2:205>
@@ -107,7 +99,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:205" ;
     skos:prefLabel "Tonkolili"@eng-Latn ;
-    wdata:q7200235 "SL0205" ;
 .
 
 <urn:mdciii:1603:16:694:2:301>
@@ -116,7 +107,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:301" ;
     skos:prefLabel "Bo"@eng-Latn ;
-    wdata:q7200235 "SL0301" ;
 .
 
 <urn:mdciii:1603:16:694:2:302>
@@ -125,7 +115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:302" ;
     skos:prefLabel "Bonthe"@eng-Latn ;
-    wdata:q7200235 "SL0302" ;
 .
 
 <urn:mdciii:1603:16:694:2:303>
@@ -134,7 +123,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:303" ;
     skos:prefLabel "Moyamba"@eng-Latn ;
-    wdata:q7200235 "SL0303" ;
 .
 
 <urn:mdciii:1603:16:694:2:304>
@@ -143,7 +131,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:304" ;
     skos:prefLabel "Pujehun"@eng-Latn ;
-    wdata:q7200235 "SL0304" ;
 .
 
 <urn:mdciii:1603:16:694:2:401>
@@ -152,7 +139,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:401" ;
     skos:prefLabel "Western Area Rural"@eng-Latn ;
-    wdata:q7200235 "SL0401" ;
 .
 
 <urn:mdciii:1603:16:694:2:402>
@@ -161,6 +147,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:694:2:402" ;
     skos:prefLabel "Western Area Urban"@eng-Latn ;
-    wdata:q7200235 "SL0402" ;
 .
 
